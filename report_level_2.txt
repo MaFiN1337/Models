@@ -1,0 +1,12 @@
+--- ЗВІТ ПО LSTM (RNN) ---
+
+Accuracy: 0.8553
+
+              precision    recall  f1-score   support
+
+    Negative       0.83      0.86      0.85       975
+    Positive       0.88      0.85      0.86      1126
+
+    accuracy                           0.86      2101
+   macro avg       0.85      0.86      0.85      2101
+weighted avg       0.86      0.86      0.86      2101

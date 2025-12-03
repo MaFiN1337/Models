@@ -1,0 +1,12 @@
+--- Результати Transformer (Рівень 3) ---
+Точність (Accuracy): 0.8925
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.91      0.88      0.89       201
+    Positive       0.88      0.91      0.89       199
+
+    accuracy                           0.89       400
+   macro avg       0.89      0.89      0.89       400
+weighted avg       0.89      0.89      0.89       400
